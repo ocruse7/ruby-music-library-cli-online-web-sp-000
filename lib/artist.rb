@@ -8,7 +8,7 @@ class Artist
 
   def initialize(name)
     @name = name
-    @songs = []https://learn.co/tracks/full-stack-web-development-v8/module-6-object-oriented-ruby/section-17-final-projects/music-library-cli#
+    @songs = []
   end
 
   def self.all
